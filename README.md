@@ -4,7 +4,6 @@ This repository contains code for ["Diversified Flow Matching with Translation I
 Diversified Flow Matching (DFM) extends flow matching to handle multiple conditional distributions simultaneously while maintaining translation identifiability.
 
 
-#### 2D Trajectory Animations
 
 <div align="center">
 <table>
@@ -28,7 +27,6 @@ Diversified Flow Matching (DFM) extends flow matching to handle multiple conditi
 </table>
 </div>
 
-#### 3D Trajectory Animations
 
 <div align="center">
 <table>
