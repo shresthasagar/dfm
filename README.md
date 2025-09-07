@@ -6,46 +6,44 @@ Diversified Flow Matching (DFM) extends flow matching to handle multiple conditi
 
 
 <div align="center">
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="250">
-<strong>FM</strong><br/>
-<img src="assets/fm_2d.gif" alt="FM 2D" width="220"/>
-<br/><em>with conditional coupling</em>
-</td>
-<td align="center" width="250">
-<strong>FM-OT</strong><br/>
-<img src="assets/fm_ot_2d.gif" alt="FM-OT 2D" width="220"/>
-<br/><em>with conditional OT coupling</em>
-</td>
-<td align="center" width="250">
-<strong>DFM</strong><br/>
-<img src="assets/dfm_2d.gif" alt="DFM 2D" width="220"/>
-<br/><em>Proposed</em>
+<td align="center" colspan="2">
+<strong>FM</strong> <em>(with conditional coupling)</em>
 </td>
 </tr>
-</table>
-</div>
-
-
-<div align="center">
-<table>
 <tr>
-<td align="center" width="250">
-<strong>FM </strong><br/>
-<img src="assets/fm_3d.gif" alt="FM 3D" width="220"/>
-<br/><em>with c onditional coupling</em>
+<td align="center" width="50%">
+<img src="assets/fm_2d.gif" alt="FM 2D" width="100%"/>
 </td>
-<td align="center" width="250">
-<strong>FM-OT</strong><br/>
-<img src="assets/fm_ot_3d.gif" alt="FM-OT 3D" width="220"/>
-<br/><em>with conditional OT coupling</em>
-<!-- <br/><em>OT coupling in 3D space</em> -->
+<td align="center" width="50%">
+<img src="assets/fm_3d.gif" alt="FM 3D" width="100%"/>
 </td>
-<td align="center" width="250">
-<strong>DFM</strong><br/>
-<img src="assets/dfm_3d.gif" alt="DFM 3D" width="220"/>
-<br/><em>Proposed</em>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<strong>FM-OT</strong> <em>(with conditional OT coupling)</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="assets/fm_ot_2d.gif" alt="FM-OT 2D" width="100%"/>
+</td>
+<td align="center" width="50%">
+<img src="assets/fm_ot_3d.gif" alt="FM-OT 3D" width="100%"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<strong>DFM</strong> <em>(Proposed, learned interpolants)</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="assets/dfm_2d.gif" alt="DFM 2D" width="100%"/>
+</td>
+<td align="center" width="50%">
+<img src="assets/dfm_3d.gif" alt="DFM 3D" width="100%"/>
 </td>
 </tr>
 </table>
