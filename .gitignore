@@ -1,0 +1,6 @@
+demo/results/
+image_translation/runs/
+image_translation/data/
+**__pycache__
+**.pyc
+**ipynb_checkpoints/
