@@ -9,6 +9,20 @@ Diversified Flow Matching (DFM) extends flow matching to handle multiple conditi
 <table width="100%">
 <tr>
 <td align="center" colspan="2">
+<strong>DFM</strong> <em>(Proposed, learned interpolants)</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="assets/dfm_2d.gif" alt="DFM 2D" width="100%"/>
+</td>
+<td align="center" width="50%">
+<img src="assets/dfm_3d.gif" alt="DFM 3D" width="100%"/>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
 <strong>FM</strong> <em>(with conditional coupling)</em>
 </td>
 </tr>
@@ -20,6 +34,7 @@ Diversified Flow Matching (DFM) extends flow matching to handle multiple conditi
 <img src="assets/fm_3d.gif" alt="FM 3D" width="100%"/>
 </td>
 </tr>
+
 <tr>
 <td align="center" colspan="2">
 <strong>FM-OT</strong> <em>(with conditional OT coupling)</em>
@@ -33,19 +48,7 @@ Diversified Flow Matching (DFM) extends flow matching to handle multiple conditi
 <img src="assets/fm_ot_3d.gif" alt="FM-OT 3D" width="100%"/>
 </td>
 </tr>
-<tr>
-<td align="center" colspan="2">
-<strong>DFM</strong> <em>(Proposed, learned interpolants)</em>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="assets/dfm_2d.gif" alt="DFM 2D" width="100%"/>
-</td>
-<td align="center" width="50%">
-<img src="assets/dfm_3d.gif" alt="DFM 3D" width="100%"/>
-</td>
-</tr>
+
 </table>
 </div>
 
